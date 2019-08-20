@@ -1,4 +1,4 @@
-package pattern.factory;
+package factory;
 
 public interface Operator {
     int result();

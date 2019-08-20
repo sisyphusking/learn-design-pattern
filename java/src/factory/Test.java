@@ -1,4 +1,4 @@
-package pattern.factory;
+package factory;
 
 public class Test {
 
