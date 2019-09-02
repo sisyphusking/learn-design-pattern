@@ -1,4 +1,4 @@
-package strategy;
+ package strategy;
 
 public class CashPay implements PayStrategy {
 
